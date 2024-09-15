@@ -3,7 +3,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=nGpsYZseu9OOULWoanzvMdk0w6DMnGrVOo6Lk9gIxhU)
 
 
-<h1 align="center">Hi there , I'm Aryan Raj 🌻</h1>
+<h1 align="center">Hi there , I'm Aryan Raj 🌻 🧑‍💻</h1>
 <h3 align="center">Coding the Blueprint for Tomorrow 🍁🌿</h3>
 
 
